@@ -1,0 +1,16 @@
+PODS:
+  - EasyStash (1.1.7)
+
+DEPENDENCIES:
+  - EasyStash
+
+SPEC REPOS:
+  trunk:
+    - EasyStash
+
+SPEC CHECKSUMS:
+  EasyStash: 29813c9bca4ace671c86d932b3acffe91d6c4e43
+
+PODFILE CHECKSUM: 94b1497f1dda29b9ce7ea23cc6c23d1446540fd9
+
+COCOAPODS: 1.11.3
